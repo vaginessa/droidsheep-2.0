@@ -17,5 +17,7 @@ I'll work very hard on this thing and hope to make it work on newer devices any 
 Information: This software is neither made for using it in public networks, nor for hijacking any other persons account.
 It should only demonstrate the poor security properties network connections without encryption have.
 This repo was an original Google Repo and was 1:1 copied to GitHub.
-DroidSheep was originally created by Andreas Koch - http://droidsheep.de and is licenced as an Open Source project.
+DroidSheep was originally created by Andreas Koch - http://droidsheep.de and is licenced as an Open Source project. 
+
+# The original creator - Andreas Koch - relesed his source code under GPL v3 license.
 
